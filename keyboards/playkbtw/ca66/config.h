@@ -2,14 +2,6 @@
 
 #include "config_common.h"
 
-/* USB Device descriptor parameter */
-#define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x6060
-#define DEVICE_VER      0x0001
-#define MANUFACTURER    Barry
-#define PRODUCT         CA66
-#define DESCRIPTION     CA66
-
 /* key matrix size */
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 15
